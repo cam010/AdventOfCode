@@ -9,7 +9,7 @@
 # After every "turn" instruction -> if total % 100 = 0 then count ++
 # Count is password.
 
-# ANSWER - 1180 (Correct)
+# ANSWER CORRECT
 
 
 import os
