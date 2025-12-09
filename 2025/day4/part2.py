@@ -1,7 +1,6 @@
 import os
 
 FILENAME = os.path.join(os.path.dirname(__file__), "input.txt")
-NUMCOUNT = 12
 
 with open(FILENAME, "r") as f:
     grid = []
